@@ -1,5 +1,5 @@
-# Intel GPIO universal SysFS driver
-**Intel GPIO SysFS driver** is universal kernel driver module which supports multiple instances and can be used for general **FPGA** logic control. 
+# Intel/Altera GPIO universal SysFS driver
+**Intel/Altera GPIO SysFS driver** is universal kernel driver module which supports multiple instances and can be used for general **FPGA** logic control. 
 
 ## Driver features:  
 - tested on **Cyclone® V SOC FPGA** and **Arria® 10 SOC FPGA** 
